@@ -1,4 +1,4 @@
-# Screenshot Recorder
+# Screenshot-Recorder
 A Tool for taking continuous Screesnhorts of the screen.
 
 
