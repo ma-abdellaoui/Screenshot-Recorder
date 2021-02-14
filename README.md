@@ -1,5 +1,5 @@
 # Screenshot Recorder
-
+A Tool for taking continuous Screesnhorts of the screen.
 
 
 Screenshot recorder is a Tool written in  VB.NET that runs in the background and takes sceenshots of the screen within a predefined time intervall in seconds. 
