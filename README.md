@@ -17,11 +17,11 @@ The deflault folder for the screenshots is .../Desktop. The user can change this
 
 # It looks like this:
 Startup of Application:  
-![](/Screenshots/Startup.JPG "Startup of Application")
+![](/Screenshots/Startup.JPG "Startup of Application")  
 Application running:  
-![](/Screenshots/Running.JPG "Application running")
+![](/Screenshots/Running.JPG "Application running")  
 A sample of the output:  
-![](/Screenshots/Output.jpg "A sample of the output")
+![](/Screenshots/Output.jpg "A sample of the output")  
 
 
 ### Installation
