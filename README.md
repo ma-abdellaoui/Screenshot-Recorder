@@ -1,7 +1,6 @@
 # Screenshot Recorder
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Screenshot recorder is a Tool written in  VB.NET that runs in the background and takes sceenshots of the screen within a predefined time intervall in seconds. 
 Every screenshort is annoted with date, time and filename. A Seperate Button is included to take a one time screenshot. 
@@ -17,9 +16,11 @@ The deflault folder for the screenshots is .../Desktop. The user can change this
   - create shortcut for auto launch after system startup for W10 systems 
 
 # It looks like this:
-
+Startup of Application:
 ![](/Screenshots/Startup.JPG "Startup of Application")
+Application running:
 ![](/Screenshots/Running.JPG "Application running")
+A sample of the output:
 ![](/Screenshots/Output.jpg "A sample of the output")
 
 
