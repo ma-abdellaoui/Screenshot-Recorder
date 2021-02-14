@@ -16,11 +16,11 @@ The deflault folder for the screenshots is .../Desktop. The user can change this
   - create shortcut for auto launch after system startup for W10 systems 
 
 # It looks like this:
-Startup of Application:
+Startup of Application:  
 ![](/Screenshots/Startup.JPG "Startup of Application")
-Application running:
+Application running:  
 ![](/Screenshots/Running.JPG "Application running")
-A sample of the output:
+A sample of the output:  
 ![](/Screenshots/Output.jpg "A sample of the output")
 
 
