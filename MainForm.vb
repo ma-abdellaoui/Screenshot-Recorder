@@ -1,7 +1,7 @@
 ﻿Imports System.IO
 Imports System.Threading
 
-Public Class Form1
+Public Class MainForm
     Public strFileName As String
     Public Run As Integer
     Public a As Integer
